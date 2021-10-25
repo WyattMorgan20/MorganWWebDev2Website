@@ -1,18 +1,22 @@
 /*navigation background*/
-.topnav {background-color: #ffffff;
-        overflow: hidden;
+.topnav {
+  background-color: #ffffff;
+  overflow: hidden;
 }
 
 /*navigation links*/
-.topnav a {float: left;
-          color: #4eaee1;
-          text-align: center;
-          padding: 14px 16px;
-          text-decoration: none;
-          font size: 17px;
+.topnav a {
+  float: left;
+  color: #4eaee1;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font size: 17px;
 }
-.topnav a:hover {background-color: #86c340;
-                color: black;
+
+.topnav a:hover {
+  background-color: #86c340;
+  color: black;
 }
 
 /*crisis support hotline*/
@@ -25,8 +29,32 @@
 }
 
 /*footer stuff*/
-footer {text-align: center;
+footer {
+  text-align: center;
 }
-footer h6 {color: #4eaee1;
-          font-size: 17px;
+
+footer h6 {
+  color: #4eaee1;
+  font-size: 17px;
 }
+
+/*contact main style template*/
+#contact {
+  background-color: #EEEEEE;
+  color: #006600;
+  min-width: 960px;
+  font-family: Verdana, Arial, sans-serif;
+  border: 2px solid #86c340;
+  padding: 1px 10px 20px 10px;
+}
+
+h2 {
+  margin-top: 0;
+  font-size: 2em;
+  text-align: left;
+  text-shadow: 2px 2px 2px #000000;
+  background-color: #111111;
+  padding: 5px 10px 10px 10px;
+}
+
+h3 {}
