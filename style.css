@@ -28,6 +28,7 @@
         margin-bottom: 2px;
 }
 
+
 /*footer stuff*/
 footer {
   text-align: center;
@@ -36,6 +37,36 @@ footer {
 footer h6 {
   color: #4eaee1;
   font-size: 17px;
+}
+
+/*Home page image and text*/
+.homeimage img {border-radius: 8px;
+                max-width: 100%;
+                height: auto;
+}
+table{width: 100%;
+    border-collapse:collapse;
+}
+td{
+    width: 50%;
+    text-align: left;
+}
+table img {border-radius: 8px;
+            max-width: 100%;
+            height: auto;
+}
+.column {
+  float: left;
+  width: 33.33%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.column {text-align: center;
+}
+.column ul {list-style-type: none;
 }
 
 /*contact main style template*/
@@ -48,7 +79,7 @@ footer h6 {
   padding: 1px 10px 20px 10px;
 }
 
-h2 {
+#contact h2 {
   margin-top: 0;
   font-size: 2em;
   text-align: left;
@@ -57,4 +88,4 @@ h2 {
   padding: 5px 10px 10px 10px;
 }
 
-h3 {}
+#contact h3 {}
