@@ -108,3 +108,13 @@ table img {
 .services h1 {
   text-align: center;
 }
+
+
+/*extra help page*/
+iframe:focus {
+  outline: none;
+}
+
+iframe[seamless] {
+  display: block;
+}
