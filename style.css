@@ -4,9 +4,9 @@
 }
 
 /*navigation links*/
-.topnav a {
+.topnav a:link {
   float: left;
-  color: #000000;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
