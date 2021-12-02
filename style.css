@@ -4,7 +4,7 @@
 }
 
 /*navigation links*/
-.topnav a:link {
+.topnav a {
   float: left;
   color: black;
   text-align: center;
@@ -123,7 +123,7 @@ table img {
 }
 .services a:link, a:visited {
   background-color: #4eaee1;
-  color: white;
+  color: black;
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
