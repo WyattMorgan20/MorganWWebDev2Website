@@ -7,7 +7,7 @@
 /*navigation links*/
 .topnav a {
   float: left;
-  color: #4eaee1;
+  color: #000000;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -15,8 +15,8 @@
 }
 
 .topnav a:hover {
-  background-color: #86c340;
-  color: black;
+  background-color: #ffffff;
+  color: #86c340;
 }
 
 /*crisis support hotline*/
