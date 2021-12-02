@@ -7,13 +7,17 @@
 /*navigation links*/
 .topnav a {
   float: left;
-  color: #000000;
+  color: #4eaee1;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
 }
 
+.topnav a:hover {
+  background-color: #86c340;
+  color: black;
+}
 
 /*crisis support hotline*/
 .csh {
